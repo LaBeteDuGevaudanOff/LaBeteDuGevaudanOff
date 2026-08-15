@@ -35,7 +35,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaBeteDuGevaudanOff&stroke=FF0000&sideNums=FFFFFF&currStreakNum=FF0000&sideLabels=FF8888&dates=888888&fire=FF0000&ring=FF0000&hide_border=true&background=0D1117" />
 
-[![SpaceBeast Analyzer - Мощный анализатор памяти](https://img.shields.io/badge/SpaceBeast__Analyzer-E50914?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/LaBeteDuGevaudanOff/SpaceBeast-Analyzer)
+*Мой анализатор памяти для очистки мусора*
+[![SpaceBeast Analyzer](https://img.shields.io/badge/SpaceBeast__Analyzer-E50914?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/LaBeteDuGevaudanOff/SpaceBeast-Analyzer)
 
 
 <br>
