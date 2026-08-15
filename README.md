@@ -35,5 +35,9 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaBeteDuGevaudanOff&stroke=FF0000&sideNums=FFFFFF&currStreakNum=FF0000&sideLabels=FF8888&dates=888888&fire=FF0000&ring=FF0000&hide_border=true&background=0D1117" />
 
+<a href="https://github.com/LaBeteDuGevaudanOff/SpaceBeast-Analyzer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaBeteDuGevaudanOff&repo=SpaceBeast-Analyzer&theme=radical&hide_border=true&bg_color=0d1117&title_color=E50914&icon_color=E50914" alt="SpaceBeast Analyzer" />
+</a>
+
 <br>
 </div>
