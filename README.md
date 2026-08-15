@@ -7,8 +7,7 @@
 <br><br>
 
 > ### « La bête ne dort jamais. »
-> *Elle rôde à travers les lignes de code, traquant l'imperfection dans les ténèbres numériques.*
-
+> *Surgissant des brumes du Gévaudan, elle rôde dans les bois sombres, semant la terreur dans le silence de la nuit.*
 <br>
 
 <a href="https://t.me/LaBete_du_Gevaudan">
