@@ -33,7 +33,7 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LaBeteDuGevaudanOff&stroke=FF0000&sideNums=FFFFFF&currStreakNum=FF0000&sideLabels=FF8888&dates=888888&fire=FF0000&ring=FF0000&hide_border=true&background=0D1117" />
+/*<img src="https://github-readme-streak-stats.herokuapp.com/?user=LaBeteDuGevaudanOff&stroke=FF0000&sideNums=FFFFFF&currStreakNum=FF0000&sideLabels=FF8888&dates=888888&fire=FF0000&ring=FF0000&hide_border=true&background=0D1117" />*/
 
 *Мой анализатор памяти для очистки мусора*
 <br>
