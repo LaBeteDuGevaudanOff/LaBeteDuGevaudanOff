@@ -42,5 +42,12 @@
 
 <br>
 
+*Karel Ide - редактор для работы с библиотекой Karel the Robot*
+<br>
+[![Karel IDE](https://img.shields.io/badge/Karel__IDE-E50914?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/LaBeteDuGevaudanOff/KarelIde)
+
+
+<br>
+
 <br>
 </div>
