@@ -35,25 +35,26 @@
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaBeteDuGevaudanOff&stroke=FF0000&sideNums=FFFFFF&currStreakNum=FF0000&sideLabels=FF8888&dates=888888&fire=FF0000&ring=FF0000&hide_border=true&background=0D1117" /> -->
 
-*Мой анализатор памяти для очистки мусора*
-<br>
-[![SpaceBeast Analyzer](https://img.shields.io/badge/SpaceBeast__Analyzer-E50914?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/LaBeteDuGevaudanOff/SpaceBeast-Analyzer)
+<p align="center">
+  <i>Мой анализатор памяти для очистки мусора</i><br>
+  <a href="https://github.com/LaBeteDuGevaudanOff/SpaceBeast-Analyzer">
+    <img src="https://img.shields.io/badge/SpaceBeast__Analyzer-E50914?style=for-the-badge&logo=github&logoColor=white&labelColor=121011" alt="SpaceBeast Analyzer">
+  </a>
+</p>
 
+<p align="center">
+  <i>Karel Ide - редактор для работы с библиотекой Karel the Robot</i><br>
+  <a href="https://github.com/LaBeteDuGevaudanOff/KarelIde">
+    <img src="https://img.shields.io/badge/Karel__IDE-E50914?style=for-the-badge&logo=github&logoColor=white&labelColor=121011" alt="Karel IDE">
+  </a>
+</p>
 
-<br>
-
-*Karel Ide - редактор для работы с библиотекой Karel the Robot*
-<br>
-[![Karel IDE](https://img.shields.io/badge/Karel__IDE-E50914?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/LaBeteDuGevaudanOff/KarelIde)
-
-
-<br>
-*CLibManager - кастомный установщик/контроллер компилятора GCC*
-<br>
-[![CLibManager](https://img.shields.io/badge/C__Lib__Manager-E50914?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/LaBeteDuGevaudanOff/GCC-Installer)
-
-
-<br>
+<p align="center">
+  <i>CLibManager - кастомный установщик/контроллер компилятора GCC</i><br>
+  <a href="https://github.com/LaBeteDuGevaudanOff/GCC-Installer">
+    <img src="https://img.shields.io/badge/C__Lib__Manager-E50914?style=for-the-badge&logo=github&logoColor=white&labelColor=121011" alt="CLibManager">
+  </a>
+</p>
 
 <br>
 </div>
