@@ -48,6 +48,12 @@
 
 
 <br>
+*CLibManager - кастомный установщик/контроллер компилятора GCC*
+<br>
+[![CLibManager](https://img.shields.io/badge/C__Lib__Manager-E50914?style=for-the-badge&logo=github&logoColor=white&labelColor=121011)](https://github.com/LaBeteDuGevaudanOff/GCC-Installer)
+
+
+<br>
 
 <br>
 </div>
